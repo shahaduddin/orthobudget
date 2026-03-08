@@ -1,0 +1,5 @@
+{
+  "name": "Ortho",
+  "description": "A mobile-first, intelligent monthly budget management application with tiered user access and offline capability.",
+  "requestFramePermissions": []
+}
