@@ -28,12 +28,12 @@ Experience OrthoBudget for yourself:
 
 *(This section should list the key technologies, frameworks, and libraries you used. Here are some common ones for a project like this - please update them to match your actual stack!)*
 
-*   **Framework:** [Next.js](https://nextjs.org/) (React)
+*   **Framework:** [React](https://reactjs.org/) with [Vite](https://vitejs.dev/)
 *   **Language:** [TypeScript](https://www.typescriptlang.org/)
 *   **Styling:** [Tailwind CSS](https://tailwindcss.com/)
-*   **Database/Storage:** IndexedDB (via [Dexie.js](https://dexie.org/)) for local storage
+*   **Database/Storage:** IndexedDB (via [Dexie.js](https://dexie.org/)) for local storage / [Supabase](https://supabase.com/) (via [`@supabase/supabase-js`](https://github.com/supabase/supabase-js)) for auth
 *   **Deployment:** [Vercel](https://vercel.com/)
-*   *(Add any other significant libraries like charting libraries, UI components, etc.)*
+*   **Charts:** [Recharts](https://recharts.org/)
 
 ## ✍️ Getting Started for Development
 
